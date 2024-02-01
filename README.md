@@ -9,4 +9,4 @@
 
 Sou um desenvolvedor web iniciante apaixonado por tecnologias em geral. Minha meta é me tornar um desenvolvedor formidável, com a capacidade de desenvolver softwares ricos em usabilidade, design e segurança.🖥️🌟
 
-![Snake animation]()
+![Snake animation](https://github.com/gui1ps/gui1ps/blod/output/github-contribution-grid-snake.svg)
