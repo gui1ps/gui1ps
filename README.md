@@ -6,3 +6,5 @@
 ![gui1ps GitHub stats](https://github-readme-stats.vercel.app/api?username=gui1ps&show_icons=true&theme=tokyonight)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gui1ps&hide_progress=false)
+
+Sou um desenvolvedor web iniciante apaixonado por tecnologias em geral. Minha meta é me tornar um desenvolvedor formidável, com a capacidade de desenvolver softwares ricos em usabilidade, design e segurança.
