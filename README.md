@@ -5,4 +5,4 @@
 
 ![gui1ps GitHub stats](https://github-readme-stats.vercel.app/api?username=gui1ps&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gui1ps&hide_progress=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gui1ps&hide_progress=false)
